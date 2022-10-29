@@ -19,10 +19,10 @@ const distancia     = 399.6;        // Distância em KM da viagem
 let custoViagem;
 
 if (combustivel === 0) {
-    custoViagem = (distancia / consumoGas) * precoGas
+    custoViagem = (distancia / consumoGas) * precoGas;
     console.log(`Custo da viagem usando Gasolina: R\$${custoViagem.toFixed(2)}`);
 } 
 else {
-    custoViagem = (distancia / consumoEtanol) * precoEtanol
+    custoViagem = (distancia / consumoEtanol) * precoEtanol;
     console.log(`Custo da viagem usando Etanol: R\$${custoViagem.toFixed(2)}`);
 }

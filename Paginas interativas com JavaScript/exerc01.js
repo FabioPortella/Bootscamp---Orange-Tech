@@ -8,14 +8,14 @@
 //- Média acima de 7, passou de semestre;
 
 const nota1 = 2, nota2 = 3, nota3 = 9;
-let media = (nota1 + nota2 + nota3) / 3
+let media = (nota1 + nota2 + nota3) / 3;
 
 if (media < 5) {
-    console.log(`Sua média foi de ${media.toFixed(2)} - reprovado`)
+    console.log(`Sua média foi de ${media.toFixed(2)} - reprovado`);
 }
 else if ((media >= 5) && (media <=7)) {
-    console.log(`Sua média foi de ${media.toFixed(2)} - recupeação`)
+    console.log(`Sua média foi de ${media.toFixed(2)} - recupeação`);
 } 
 else {
-    console.log(`Sua média foi de ${media.toFixed(2)} - aprovado`)
+    console.log(`Sua média foi de ${media.toFixed(2)} - aprovado`);
 }

@@ -14,17 +14,17 @@ let precoVenda;
 
 if (codPagamento === 1) {
     precoVenda = precoEtiqueta * 0.90;
-    console.log(`À vista Débito - 10% de desconto: R\$${precoVenda.toFixed(2)}`)
+    console.log(`À vista Débito - 10% de desconto: R\$${precoVenda.toFixed(2)}`);
 }
 else if (codPagamento === 2) {
     precoVenda = precoEtiqueta * 0.85;
-    console.log(`À vista no Dinheiro ou PIX - 15% de desconto: R\$${precoVenda.toFixed(2)}`)
+    console.log(`À vista no Dinheiro ou PIX - 15% de desconto: R\$${precoVenda.toFixed(2)}`);
 }
 else if (codPagamento === 3) {
     precoVenda = precoEtiqueta;
-    console.log(`Em duas vezes, preço normal de etiqueta sem juros: R\$${precoVenda.toFixed(2)}`)
+    console.log(`Em duas vezes, preço normal de etiqueta sem juros: R\$${precoVenda.toFixed(2)}`);
 }
 else {
     precoVenda = precoEtiqueta * 1.10;
-    console.log(`Acima de duas vezes, preço normal de etiqueta mais juros de 10%: R\$${precoVenda.toFixed(2)}`)
+    console.log(`Acima de duas vezes, preço normal de etiqueta mais juros de 10%: R\$${precoVenda.toFixed(2)}`);
 }
