@@ -14,8 +14,8 @@ const consumoAlcool = 9.2;
 const distancia     = 399.6;
 let custoViagem;
 
-custoViagem = (distancia / consumoGas) * precoGasolina
+custoViagem = (distancia / consumoGas) * precoGasolina;
 console.log(`Custo da viagem usando Gasolina: R\$${custoViagem.toFixed(2)}`);
 
-custoViagem = (distancia / consumoAlcool) * precoAlcool
+custoViagem = (distancia / consumoAlcool) * precoAlcool;
 console.log(`Custo da viagem usando Alcool: R\$${custoViagem.toFixed(2)}`);
