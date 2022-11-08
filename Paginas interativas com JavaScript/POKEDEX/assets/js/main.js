@@ -1,1 +1,1 @@
-alert('Sucesso!')
+console.log("Sucesso!");
