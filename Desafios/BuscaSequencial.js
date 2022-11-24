@@ -4,7 +4,7 @@
 
 let elementos = [64, 137, -16, 43, 67, 81, -90, 212, 10, 75]; 
 
-let valor = 4;
+let valor = 10;
 
 //TODO: Retorne o valor do elemento no Array junto de sua respectiva posição.
 
