@@ -12,7 +12,7 @@ let arrVazio = [];
 arr.forEach(verificarPar);
 
 function verificarPar(item) {
-    if ((item % 2) === 0) {arrVazio.unshift(item)}
-    else {arrVazio.push(item)}
+    if ((item % 2) === 0) {arrVazio.unshift(item)}  // adiciona item PAR no inicio do arrVazio
+    else {arrVazio.push(item)}                      // adiciona item IMPAR no final do arrVazio
 }
 console.log(arrVazio);
