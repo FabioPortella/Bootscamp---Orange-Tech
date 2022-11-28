@@ -1,7 +1,14 @@
+import Button from "./Components/Button";
 
 function App() {
   return (
-    <div className="App">Olá React</div>
+    <div className="App">
+      <h1>Olá React</h1>
+      <Button title="Entrar"/>
+      <Button title="Fechar"/>
+      <Button title="Abril"/>
+      <Button title="Salvar"/>
+    </div>
   );
 }
 
