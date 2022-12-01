@@ -37,3 +37,11 @@ Criando um plano de estudos simplificado para quem gostaria de inciar na program
 - [ ] Faça os projetos sozinho
 - [ ] Tire as dúvidas
 - [ ] Done! 
+
+
+Links úteis para sua jornada:
+
+- [Formatação básica - site oficial Github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs)
+- [Formatação Avançada - site oficial Github](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
+- [Listagem de Cursos da Plataforma DIO - HTML, CSS, JS e React](https://web.dio.me/play?skill=9e186e72-ffe6-4990-9324-a55cd69f7d5a&skill=af94e086-7222-4626-bf21-b7d8ebecdbfd&skill=ba551fa6-c9bb-4785-9830-812eb389c3c2&skill=91244518-6803-41e2-a974-5f2f00cb4a38&tab=cursos)
+ 
