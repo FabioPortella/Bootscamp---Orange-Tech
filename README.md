@@ -31,9 +31,9 @@ Criando um plano de estudos simplificado para quem gostaria de inciar na program
 - [ ] [Programação para Internete com HTML5 e CSS3](https://web.dio.me/course/programando-interfaces-com-html5-e-css3/learning/f5066ef9-b542-43c0-a3c5-1519c61b84ee) [6h] (26/11/2022)
 
 ## Tasks para maximizar o aprendizado:
--[x] Começar a estudar fonte
--[ ] Assista ao curso
--[ ] Faça anotações
--[ ] Faça os projetos sozinho
--[ ] Tire as dúvidas
--[ ] Done! 
+- [x] Começar a estudar fonte
+- [ ] Assista ao curso
+- [ ] Faça anotações
+- [ ] Faça os projetos sozinho
+- [ ] Tire as dúvidas
+- [ ] Done! 
