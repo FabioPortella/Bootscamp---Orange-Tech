@@ -22,7 +22,7 @@ const Home = () => {
                     Domine as tecnologias utilizadas pelas empresas mais novadoras do mundo e encare seu novo 
                     desafio profissional, evoluindo em comunidade com os melhores experts.
                 </TextContent>
-                <Button title="Começar agora" variant="secondary" onClick={() => null} />
+                <Button title="COMEÇAR AGORA" variant="secondary" onClick={() => null} />
             </div>
             <div>
                 <img src={ bannerImage } alt="Imagem principal" />

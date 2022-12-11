@@ -34,7 +34,7 @@ export const Wrapper = styled.div`
 
 export const BuscarInputContainer = styled.div`
     widht: 175px;
-    height: 30px
+    height: 30px;
     background: #2D2D37;
     border-radius: 8px;
     padding: 2px 5px;
@@ -69,11 +69,11 @@ export const UserPicture = styled.img`
     width: 32px;
     height: 32px;
     border-radius: 22px;
-    boerder: 2px solid #ffffff;
+    border: 2px solid #ffffff;
 `
 
 export const Input = styled.input`
-    background: transparent:
+    background: transparent;
     flex: 1;
     border: 0;
     color: #ffffff;
