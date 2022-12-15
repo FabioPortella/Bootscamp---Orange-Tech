@@ -51,7 +51,7 @@ const Card = () => {
         cnQp6Ur3ejtvtCWFw6baoU769eiuMPJfYcJ6PnDzIzCVapSeScZp04uUl5ZV2Kz+k3O/wBjL+D8GeY+MpynRydWkozcHfG17pr9v7fczaeR4V6SeHpWa
         1+Yh1KnCkpRpwjBXvaKtrDyX2HGejG8E+ZnJlbrtfvkcE2ZnJdbrtfvm4OOc67DijD8E2ZnJlbrtbvncEuZfJdbrtbvm4ODnXZ3ijDcEuZfJdbrtbvnc
         EmZXJVXrtbvm5ODkw4ow3BJmVyVV67W75HBHmVyVV67W75ujjm7DZGF4IsyeSqvXK3eI4IsyeSanXK3fN2cG7DZGE4IcyOSanXK3eO4IcyOSKnXK3eN2
-        ccO7GE4IMyOR59crd4g3hwAf//Z"/>
+        ccO7GE4IMyOR59crd4g3hwAf//Z" />
         <Content>
             <UserInfo>
                 <UserPicture src="https://avatars.githubusercontent.com/u/45184516?v=4"/>
