@@ -22,7 +22,7 @@ export const ButtonContainer = styled.button`
             cursor: pointer;
         }
 
-        &:after {
+        &::after {
             content: '';
             position: absolute;
             border: 1px solid #e4105d;
