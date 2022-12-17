@@ -7,3 +7,10 @@
     "skipLibCheck": true                                 
   }
 }
+
+
+// Instalando o TypeScript 
+// -> yarn add typescript @types/node @types/react-dom @types/jest -D
+
+// Iniciando e configurando o TypeScript no projeto 
+// -> npx tsc --init
