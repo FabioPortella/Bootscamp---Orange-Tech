@@ -1,4 +1,4 @@
-//import { MdEmail, MdLock } from 'react-icons/md'; leftIcon={<MdEmail />}  leftIcon={<MdLock />}
+import { MdEmail, MdLock } from 'react-icons/md'; 
 import { useNavigate } from 'react-router-dom';
 import { useForm } from "react-hook-form";
 import { yupResolver } from '@hookform/resolvers/yup';
@@ -61,13 +61,15 @@ const Login = () => {
                             name="email" 
                             errorMessage={errors?.email?.message} 
                             control={control} 
-                            placeholder="E-mail"  />
+                            placeholder="E-mail"
+                            leftIcon={<MdEmail />} />
                         <Input 
                             name="password" 
                             errorMessage={errors?.password?.message} 
                             control={control} 
                             placeholder="Senha" 
-                            type="password"  />
+                            type="password"  
+                            leftIcon={<MdLock />} />
                         <br/>
                         <Button 
                             title="Entrar" 
