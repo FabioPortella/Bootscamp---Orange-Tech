@@ -1,6 +1,3 @@
-import React from 'react';
-//import { FiThumbsUp } from 'react-icons/fi'; <FiThumbsUp /> 10
-
 import { 
     CardContainer, 
     Content, 
