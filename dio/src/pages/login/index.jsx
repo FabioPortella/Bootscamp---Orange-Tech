@@ -31,7 +31,7 @@ const Login = () => {
     const onSubmit = async formData => {
         try{
             const { data } = await api.get(`users?email=${formData.email}&senha=${formData.password}`);
-            
+
             if(data.length === 1){
                 navigate('/feed');
             } else {
@@ -68,6 +68,7 @@ const Login = () => {
                             control={control} 
                             placeholder="Senha" 
                             type="password"  />
+                        <br/>
                         <Button 
                             title="Entrar" 
                             variant="secondary" 
