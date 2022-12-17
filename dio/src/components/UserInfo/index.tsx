@@ -1,4 +1,3 @@
-import React from 'react';
 import { IUserInfo } from './types';
 
 import { Container, NameText, Progress, UserPicture } from './styles';
