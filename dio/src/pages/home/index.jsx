@@ -6,6 +6,7 @@ import { Header } from "../../components/Header";
 
 import { Container, TextContent, Title, TitleHighLight } from './styles'
 
+// startar react = terminar -> npm start
 
 const Home = () => {
 
