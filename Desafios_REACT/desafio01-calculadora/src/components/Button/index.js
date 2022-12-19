@@ -1,7 +1,7 @@
 const Button = () => {
     return (
       <div className="App">
-         Olá Mundo
+         Olá
       </div>
     );
   }
