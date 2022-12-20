@@ -95,6 +95,10 @@ const App = () => {
     } 
   }
 
+  const sobreApp = () => {
+    alert("Bootcamp Orange Tech +\nDesafio de código\nCriando Uma Calculadora Com React\nDesenvolvido por Fábio Portella");
+  }
+
   return (
     <Container>
       <Content>
@@ -103,7 +107,7 @@ const App = () => {
           <Button label={"*"} onClick={handleMultiplyNumbers} />
           <Button label={"/"} onClick={handleDivideNumbers}/>
           <Button label={"c"} onClick={handleOnClear} />
-          <Button label={"..."} />
+          <Button label={"..."} onClick={sobreApp}/>
         </Row>
         <Row>
           <Button label={"7"} onClick={() => handleAddNumber('7')}/>
