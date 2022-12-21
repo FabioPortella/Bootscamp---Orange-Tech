@@ -1,4 +1,4 @@
-# Desafio de código - Criando Uma Calculadora Com React
+# Desafio de código - Criando Uma Wiki de Repositórios do GitHub Com React
 
 Desafio de Código do Bootcamp - Orange Tech +
 Criando Uma Wiki de Repositórios do GitHub Com React,
