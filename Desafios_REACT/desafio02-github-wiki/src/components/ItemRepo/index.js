@@ -7,7 +7,8 @@ import { ItemContainer } from './styles';
     <ItemContainer>
         <h3>Fábio Portella</h3>
         <p> dio/fábio-ports</p>
-        <a href='#'>Remover</a>
+        <a href='#'>Ver repositório</a><br />
+        <a href='#' className='remover'>Remover</a>
         <hr />
     </ItemContainer>
   )
