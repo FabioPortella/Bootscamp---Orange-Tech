@@ -2,7 +2,7 @@
 
 Desafio de Código do Bootcamp - Orange Tech +
 Criando Uma Wiki de Repositórios do GitHub Com React,
-Este desafio consiste no termino do projeto, adicionando ... .
+Este desafio consiste no termino do projeto, adicionando a função remover.
 
 ## Desenvolvido por Fábio Portella
 
