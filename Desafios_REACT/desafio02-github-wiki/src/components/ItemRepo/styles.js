@@ -16,14 +16,6 @@ export const ItemContainer = styled.div`
 
     a {
         color: #aa33aa;
-        background-color: #fafafa;
-        border: 1px solid #fafafa;
-        border-radius: 20px;
-    
-        &: hover {
-            background-color: #fafafa40;
-            cursor: pointer;
-        }
     }
 
     button.remover {
@@ -34,10 +26,10 @@ export const ItemContainer = styled.div`
         margin-top: 20px;        
     
         height: 20px;
-        width: 170px;
+        width: 100px;
     
         &: hover {
-            background-color: #fafafa40;
+            background-color: #fafafa90;
             cursor: pointer;
         }
 
