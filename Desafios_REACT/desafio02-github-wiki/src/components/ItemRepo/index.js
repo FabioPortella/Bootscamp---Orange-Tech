@@ -19,5 +19,5 @@ import { ItemContainer } from './styles';
     </ItemContainer>
   )
 }
-//<a href='#' className='remover'>Remover</a>
+
 export default ItemRepo
